@@ -2,3 +2,5 @@ git tet
 \\
 
 Test git add
+\\
+git commit
